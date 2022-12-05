@@ -3,4 +3,4 @@
 
 `GitLab Link to My OSCP Notes`
 
-[https://gitlab.com/actua-L/oscp]
+[](https://gitlab.com/actua-L/oscp)
