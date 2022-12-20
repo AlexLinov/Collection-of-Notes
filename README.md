@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @actua-L
 
 
-`GitLab Link to My OSCP Notes`
+`Collection of Notes for OSCP, PNPT and HTB CPTS`
 
-https://gitlab.com/actua-L/oscp
+> I will be keeping track of all my notes while prepping for OSCP/PNPT/CPTS
